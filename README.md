@@ -2,6 +2,8 @@
 ### A poor quality html project made in the first academic year 😅 
 ### For some reason, I had to complete all the work by myself, but I'm glad I did it.
 
+---
+
 ## <p align="center"> Home Page </p>
 <div align=center>
 <img src="https://github.com/Nansun1202/CS4012-Html-Project/blob/main/overview/homepage.jpg?raw=true" width="600" height="720">
