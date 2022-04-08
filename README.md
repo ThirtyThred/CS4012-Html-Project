@@ -1,6 +1,6 @@
 # <p align="center"> CS4012 HTML Project </p>
 ### A poor quality html project made in the first academic year. 
-### For some reason, I had to complete the work individually, but I'm glad I did it. 😵‍💫
+### It's a group project, but I completed the work individually for some reason, but I'm glad I did it. 😵‍💫
 
 ---
 
